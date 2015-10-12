@@ -7,7 +7,7 @@ This simple exercise will help you practice git basics - cloning a repository to
 * [Try git](https://try.github.io/)
 
 ## Requirements
-* `git` installed on your computer.
+* `git` [installed](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) on your computer.
 * A text editor.
 
 ##Step 0: (Already done if you are here)
