@@ -5,7 +5,13 @@ My hobbies are coding
 I would like to travel to egypt
 
 "life is easy".
+<<<<<<< HEAD
 
 audfgdufkadlshflsadjgfldhsajkfhasdjkfnsdaf
 dsafjdsagflkadsljf
 dafadsihfkl.m
+=======
+n
+n dsfjsdgfusdfbhdsgfhjdshflkdsjhfkjsd ndsfu dsfgusdgfjsdkhjfj
+jbfdsjfbdsjfd
+>>>>>>> hello
