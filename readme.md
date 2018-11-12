@@ -17,7 +17,7 @@ This simple exercise will help you practice git basics - cloning a repository to
 ## Step 1:
 1. Clone this repository to your computer ([Instruction here](https://help.github.com/articles/cloning-a-repository/))
 
-##Step 2:
+## Step 2:
 1. On your computer, edit [things.txt](things.txt) and replace all `<XXXX ...>` with your favorite things.
 2. Enjoy and appreciate `git status`, `git add` and `git status` again.
 2. Commit and push your work.
