@@ -1,20 +1,20 @@
-#Instructions
+# Instructions
 
 This simple exercise will help you practice git basics - cloning a repository to your development machine, adding files, committing changes, and pushing them back to a remote repository on github.
 
-##Resources
+## Resources
 
-* [Try git](https://try.github.io/)
+* git-it - download [here](https://github.com/jlord/git-it-electron/releases)
 
 ## Requirements
 * `git` [installed](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) on your computer.
 * A text editor.
 
-##Step 0: (Already done if you are here)
+## Step 0: (Already done if you are here)
 1. You have already created a github account.
 2. You have already created this repo using the github classroom link we have sent you.
 
-##Step 1:
+## Step 1:
 1. Clone this repository to your computer ([Instruction here](https://help.github.com/articles/cloning-a-repository/))
 
 ##Step 2:
